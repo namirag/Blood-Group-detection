@@ -1,1 +1,1 @@
-# Cancer_Detection
+# blood group detection models
